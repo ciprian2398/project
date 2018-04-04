@@ -35,6 +35,6 @@ public class League {
 
         firstGame.showGoals();
 
-        // cel putin 6  at least 3 goals
+        // fciprian commit
     }
 }
