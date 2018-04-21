@@ -69,7 +69,7 @@
     <driver id="mysql">
       <remarks>wd</remarks>
       <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{snip_db}?][\?&lt;&amp;,user={def_user},password={P.cD#Mypx,D7MycXr44!},{:identifier}={:identifier}&gt;]" />
-      <artifact name="MySQL Connector/J" use="true" version="5.1.45" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
